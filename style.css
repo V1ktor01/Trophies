@@ -1,0 +1,87 @@
+body {margin:0;
+  background-image: url("https://i0.wp.com/coolwallpaper.website/wp-content/uploads/thon/Perfect-Bayern-Munich-Wallpaper-These-are-High-Quality-and-High-Definition-HD-Wallpapers-For-PC-Mobile-and-Tablet-world-of-sofas-640x480.jpg");
+  background-size: 100%;
+}
+  .container{
+  padding-top: 13%;
+  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-image:linear-gradient(to top, #f23030 0%, #ee0a46 100%);
+    position: fixed;
+  top: 0;
+  width: 100vw;
+}
+.logo{
+  float: left;
+  width: 21%;
+}
+li {
+    float: left;
+}
+h3{
+    text-shadow:-1px -1px 3px #000000;
+    color: #4730db;
+}
+p{
+
+        color: #2196F3;
+}
+h2{
+  text-align: center;
+  font-size: 150%;
+  color: #260ea1;
+}
+p{
+  font-style: italic;
+  text-align: center;
+}
+h1{
+  text-align: center;
+font-size: 333%;
+  color: #260ea1;
+  padding-top: 10%;
+}
+.sida{
+  text-align: center;
+  font-size: 200%;
+  font-style: oblique;
+  color: #f6f6f6;
+  width: 100%;
+}
+.bundesliga{
+  box-shadow:-1px 1px 20px 7px #721212;
+  width: 45%;
+float: right;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.container{
+  padding-top: 10%;
+  text-align: center;
+  width: 73vw;
+  border: 18px solid #2c287c;
+  margin: 10vw;
+  background-color: white;
+  text-shadow: 0px -1px 1px #a7a7a7;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #d6053c;
+}
+
+@media screen and (max-width:500px) {
+  .left, .main, .right {
+    width:100%;
