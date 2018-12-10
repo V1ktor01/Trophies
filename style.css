@@ -25,14 +25,15 @@ li {
 h3{
     text-shadow:-1px -1px 3px #000000;
     color: #4730db;
+        font-size: 65%;
 }
 p{
-
         color: #2196F3;
+            font-size: 50%;
 }
 h2{
   text-align: center;
-  font-size: 150%;
+  font-size: 100%;
   color: #260ea1;
 }
 p{
