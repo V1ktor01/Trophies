@@ -23,18 +23,19 @@ li {
     float: left;
 }
 h3{
-    text-shadow:-1px -1px 3px #000000;
-    color: #4730db;
-        font-size: 65%;
+  text-shadow: -1px -1px 3px #000000;
+    color: #90113c;
+    font-size: 4vw;
+    text-align: left;
 }
 p{
-        color: #2196F3;
-            font-size: 50%;
+  color: #2196F3;
+font-size: 3vw;
 }
 h2{
   text-align: center;
-  font-size: 100%;
-  color: #260ea1;
+      font-size: 6vw;
+      color: #260ea1;
 }
 p{
   font-style: italic;
@@ -44,19 +45,16 @@ h1{
   text-align: center;
 font-size: 10vw;
   color: #260ea1;
-  padding-top: 10%;
 }
-
 .sida{
   text-align: center;
   font-size: 200%;
-  font-style: oblique;
   color: #f6f6f6;
   width: 100%;
 }
 .bundesliga{
   box-shadow:-1px 1px 20px 7px #721212;
-  width: 45%;
+  width: 24vw;
 float: right;
 }
 li a {
